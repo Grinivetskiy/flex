@@ -1,0 +1,87 @@
+.lok-text {
+    background: #FF9C7D;;
+    padding: 10px 0 22px;
+    
+    @media (min-width: 576px){
+        
+        
+    }
+    
+    @media (min-width: 768px){
+        padding: 28px 0 62px;
+        
+    }
+    
+    @media (min-width: 992px){
+        padding: 118px 0 162px;
+        
+    }
+    
+    @media (min-width: 1200px){
+       
+    }
+}
+
+.lok-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    
+    @media (min-width: 576px){
+        
+        
+    }
+    
+    @media (min-width: 768px){
+        font-weight: 600;
+        font-size: 17px;
+        line-height: 60px; 
+        
+    }
+    
+    @media (min-width: 992px){
+        width: 790px;
+        font-weight: 600;
+        font-size: 17px;
+        line-height: 60px; 
+        
+    }
+    
+    @media (min-width: 1200px){
+       
+    }
+
+}
+
+.lok-text h2 {
+    margin: 0;
+    
+    @media (min-width: 576px){
+        
+        
+    }
+    
+    @media (min-width: 768px){
+        font-weight: 600;
+        font-size: 35px;
+        line-height: 75px;
+        
+    }
+    
+    @media (min-width: 992px){
+        font-weight: 600;
+        font-size: 65px;
+        line-height: 75px;
+      
+    }
+    
+    @media (min-width: 1200px){
+       
+    }
+}
+
+.lok-text p {
+    margin: 18px 0 40px;
+}

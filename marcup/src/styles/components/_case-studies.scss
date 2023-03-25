@@ -1,0 +1,162 @@
+.case-studies {
+    background: #EEEEEE;;
+    margin: 0 auto;
+    display: flex;
+    padding: 0;
+    padding: 0 0 10px 0;
+    
+    @media (min-width: 576px){
+        
+    }
+    
+    @media (min-width: 768px){
+        padding: 0 0 40px 5px;
+        
+    }
+    
+    @media (min-width: 992px){
+        padding: 0 0 90px 25px;
+        
+    }
+    
+    @media (min-width: 1200px){
+       
+    }
+}
+
+.min {
+    display: flex;
+    justify-content: space-around;
+}
+
+.case-studies-photo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+    width: 20%;
+    font-size: 10px;
+    
+    @media (min-width: 576px){
+        
+    }
+    
+    @media (min-width: 768px){
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        width: 27%;
+        
+    }
+    
+    @media (min-width: 992px){
+        padding: 90px 0 0 50px;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        width: 27%;
+        
+    }
+    
+    @media (min-width: 1200px){
+       
+    }
+}
+
+.case-studies-photo img {
+    width: 70%;
+}
+
+.case-studies-photo h3 {
+    font-size: 20px;
+    
+    @media (min-width: 576px){
+        
+    }
+    
+    @media (min-width: 768px){
+        text-align: left;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 40px;
+        margin: 0 0 10px 0;
+        
+    }
+    
+    @media (min-width: 992px){
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 50px;
+        margin: 0 0 30px 0;
+        
+    }
+    
+    @media (min-width: 1200px){
+       
+    }
+}
+
+.velo {
+    
+    @media (min-width: 576px){
+        
+    }
+    
+    @media (min-width: 768px){
+        margin: 30px 0 0 0;
+
+    }
+
+    @media (min-width: 992px){
+        
+    }
+    
+    @media (min-width: 1200px){
+       
+    }
+}
+
+.case-studies-nav {
+    width: 73%;
+    
+    @media (min-width: 576px){
+        
+    }
+    
+    @media (min-width: 768px){
+        padding: 20px 0 0 ;
+        
+    }
+    
+    @media (min-width: 992px){
+        padding: 100px 70px 0 110px;
+        
+    }
+    
+    @media (min-width: 1200px){
+       
+    }
+}
+
+.case-studies-photo p {
+    margin: 0;
+    text-align: left;
+    
+    @media (min-width: 576px){
+        
+    }
+    
+    @media (min-width: 768px){
+        padding: 0 0 20px;
+        
+    }
+    
+    @media (min-width: 992px){
+        padding: 0 0 50px;
+        
+    }
+    
+    @media (min-width: 1200px){
+       
+    }
+}

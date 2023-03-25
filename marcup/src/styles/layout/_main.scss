@@ -1,0 +1,57 @@
+#main {
+    border-top: 1px solid #CCCCCC;
+    padding: 62px 0 0 0;
+    overflow: hidden;
+
+    @media (min-width: 576px){
+        padding: 0;
+        
+    }
+    
+    @media (min-width: 768px){
+         padding: 40px 0 0;
+        
+    }
+    
+}
+
+.container-main {
+    margin: 0 auto;
+    padding: 0 60px;
+    width: 100%;
+
+    @media (min-width: 576px){
+        min-width: 575px;
+        
+    }
+    
+    @media (min-width: 768px){
+        
+    }
+    
+    @media (min-width: 992px){
+        
+    }
+    
+    @media (min-width: 1200px){
+        max-width: 1440px;
+       
+    }
+    
+}
+
+.container-main-box {
+    display: flex;
+    padding: 0 0 69px;
+    
+    @media (min-width: 1200px){
+        padding: 0 0 169px;
+        
+    }
+    
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
